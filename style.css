@@ -1,0 +1,23 @@
+.improve{
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 8px 9px #424242;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.code{
+    width: 290px;
+    border-radius: 15px;
+}
+.your{
+    font-size: 27px;
+    margin-top: 20px;
+    text-align: center;
+}
+.scan{
+    text-align: center;
+    margin-top: 20px;
+}
